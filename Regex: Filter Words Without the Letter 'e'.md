@@ -27,3 +27,7 @@ print("Words without 'e':", l1)
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/fbe52d43-eb10-4615-bd06-3b1dde3da7d2)
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
